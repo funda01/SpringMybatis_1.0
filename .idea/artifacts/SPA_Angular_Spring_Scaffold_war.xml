@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SPA_Angular_Spring_Scaffold:war">
+    <output-path>C:/SpringRestMybatis/target</output-path>
+    <root id="archive" name="SPA_Angular_Spring_Scaffold.war">
+      <element id="artifact" artifact-name="SPA_Angular_Spring_Scaffold:war exploded" />
+    </root>
+  </artifact>
+</component>
